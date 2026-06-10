@@ -1,4 +1,6 @@
 # AI Resume Screening System
+<img width="857" height="388" alt="image" src="https://github.com/user-attachments/assets/82d16c5a-e812-4abe-be22-84ead714eaf2" />
+
 
 ## Overview
 
